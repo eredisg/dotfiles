@@ -21,6 +21,6 @@ if [[ $gs == *"modified"* ]]; then
 fi
 
 # Push to GitHub
-git add -u;
+git add .
 git commit -m "New Backup `date +'%Y-%m-%d %H:%M:%S'`";
 git push -u origin master
