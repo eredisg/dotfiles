@@ -11,6 +11,7 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plugin 'christoomey/vim-tmux-navigator'
+Plugin 'ervandew/supertab'
 
 call vundle#end()
 filetype plugin indent on
