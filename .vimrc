@@ -1,3 +1,6 @@
+" ===== General Settings =====
+set number
+
 " ===== Vundle Settings =====
 set nocompatible
 filetype off
