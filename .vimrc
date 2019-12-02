@@ -1,4 +1,5 @@
 " ===== General Settings =====
+syntax on
 set number
 
 " ===== Vundle Settings =====
