@@ -103,5 +103,6 @@ source $ZSH/oh-my-zsh.sh
 source /home/eredisg/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/powerlevel9k/powerlevel9k.zsh-theme
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/.aliases
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

@@ -1,0 +1,11 @@
+alias .="cd ../"
+alias ..="cd ../../"
+alias ...="cd ../../../"
+
+alias ga="git add *"
+alias gpl="git pull"
+alias gpu="git push"
+
+gc() {
+  git commit -m $1
+}
