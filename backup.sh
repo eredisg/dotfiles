@@ -11,7 +11,7 @@ else
 fi
 
 # Copy Dot Files
-cp $HOME/{.zshrc,.vimrc,.tmux.conf} .
+cp $HOME/{.zshrc,.vimrc,.tmux.conf,.aliases} .
 
 # Check Git Status
 gs = "$(git status | grep -i "modified")"
