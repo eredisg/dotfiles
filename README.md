@@ -4,7 +4,7 @@ These are my personal dotfiles using on my XPS 13 running Ubuntu 18.04 LTS. As a
 
 # Current Software Used
 * Vim
-* zsh
+* zsh (oh-my-zsh)
 * tmux
 
 # System Specs
